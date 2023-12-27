@@ -1,10 +1,10 @@
-<link rel="canonical" href="https://levelup.gitconnected.com/covariance-and-contravariance-in-net-c-c2b8576b2155?sk=13f0128f87d2cbfb24f30219796bff31" />
+<link rel="canonical" href="https://www.developmentsimplyput.com/post/variance-invariance-covariance-contravariance-dotnet" />
 
 # Covariance and Contravariance in .NET C#
 ### Have hard time understanding it? Let me simplify it for you.
 
 <p align="center">
-  <img src="https://miro.medium.com/max/1400/1*nhsJIOo3n2zjo-N4x3ufpA.jpeg">
+  <img src="https://static.wixstatic.com/media/488a99_4d3235c0651e47f09b9a0629d39d2ce4~mv2.png">
 </p>
 
 <br/>
@@ -53,4 +53,4 @@ If you are interested into reading more about this topic, you can read [the rest
 [LinkedIn]: https://www.linkedin.com/in/atarekhasan/
 [Friend Links]: https://www.linkedin.com/feed/update/urn:li:activity:6866082670108143616/
 [Newsletter]: https://www.linkedin.com/newsletters/development-simply-put-6866647119655247872/
-[Article]: https://levelup.gitconnected.com/covariance-and-contravariance-in-net-c-c2b8576b2155?sk=13f0128f87d2cbfb24f30219796bff31
+[Article]: https://www.developmentsimplyput.com/post/variance-invariance-covariance-contravariance-dotnet
